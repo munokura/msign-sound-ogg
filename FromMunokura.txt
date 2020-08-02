@@ -1,0 +1,47 @@
+▼このファイルについて
+水の宮和風素材で配布しているmidiファイルにループ処理を施し、oggに変換したものをパッケージしました。
+
+
+▼オリジナル配布元
+http://msign-sozai.com/
+
+
+▼利用規約
+マテリアル・コモンズ・ブルー・ライセンス
+https://materialcommons.tk/mtcm-b-summary/
+
+
+▼表示クレジット
+編集: fungamemake.com (著作者:水の宮和風素材)
+
+
+▼ファイル名と曲名
+基本的にフォルダで分けてありますが、ファイル名の後ろに'_l'がついているものはループ処理されています。
+
+BGM(ループ有):22
+BGM(ループ無):22
+
+
+ファイル名                  曲名
+b_dream_gm - 夢
+b_fire_gm - 火の国
+b_fujin - 風神
+b_hyoko_gm - 氷湖
+b_jomon_gm - 縄文の里
+b_kaze_gm - 風の京
+b_mizu_gm - 水の宮
+b_mizutori_gm - 水鳥のうた
+b_mori_gm - 鎮守の森
+b_oumatoki_gm - 逢魔時
+b_sakuragawa2gm - 桜川 - short
+b_sakuragawa3 - 桜川
+b_seirei_gm - 地の精霊
+b_shitaku_gm - 冬支度
+b_sis - 疾走
+b_syado40b_gm - 斜度肆拾度
+b_takebayashi_gm - 竹林
+b_tsumetayama - 冷山
+canon - カノン - 琴バージョン
+kamiyadoruki_gm - 神宿る木
+matsuriyoru - 祭の夜
+miyabi - 雅
